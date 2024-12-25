@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm a Computer Engineering student at RWTH Aachen University (5th semester) 🚀<br>
 Passionate about hardware ⚙️, cybersecurity 🔒, machine learning 🤖, and robotics 🤖<br>
 Always eager to learn, innovate, and solve real-world problems! 💡
