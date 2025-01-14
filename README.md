@@ -1,4 +1,4 @@
-I'm a Computer Engineering student at RWTH Aachen University (5th semester) 🚀I'm passionate about hardware ⚙️, cybersecurity 🔒, machine learning 🤖, and robotics 🤖 
+I'm a Computer Engineering student at RWTH Aachen University (5th semester) 🚀I'm passionate about hardware ⚙️, cybersecurity 🔒, machine learning and robotics 🤖 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/chebanne-aziz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/azcheb) 
